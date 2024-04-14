@@ -50,6 +50,7 @@ Each document in average is 300 byte if the script generates a 10 Million documn
 - To audit the users who using the RAT of 4G LTE, without having Billing CDR, a sign unlicensed subscriber..
 - Can be extended to Audit TAP-IN vs PGW and TAP-OUT vs SGW CDRs.
 - Generates report per RAT, per SI. etc...
+- This script can be part of larger ETL orchestrating system such Apache Airflow or other tool.
 
 ## Authors
 Abdulwahed Freaa
